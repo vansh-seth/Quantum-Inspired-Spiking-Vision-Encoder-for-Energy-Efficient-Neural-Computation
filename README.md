@@ -1,0 +1,1 @@
+# Quantum-Inspired-Spiking-Vision-Encoder-for-Energy-Efficient-Neural-Computation
